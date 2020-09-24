@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# Data Analytics / Visualisation
 
-You can use the [editor on GitHub](https://github.com/DylanBrohan/Data-Analytics-Visualisation-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Portfolio Summary**
+During my final year of college I became fascinated with Data Analytics and Visualisation. As a result, I have created a portfolio style of some of the projects I have completed during and after my time in college. I hope to become more advanced with Visualisation tools such as Tableau, Data Desk and R. I aim to eventually get a position within a IT company where data analytics is a key factor and I can gain new skills and hone my own.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The Data Visualisation Pieces were all developed using Tableau and its extensions.**
 
-### Markdown
+**All of the pieces demonstrated and coded were constructed using Excel Spread sheets of data or equivelant**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Data Analytics / Visualisation Pieces
 
-```markdown
-Syntax highlighted code block
+### Git Hub Links
 
-# Header 1
-## Header 2
-### Header 3
+These pieces are my Hand picked favourites. These links will direct you to my github repo were you can download and explore.
 
-- Bulleted
-- List
+Data Visualisation with Tableau
 
-1. Numbered
-2. List
+- [Color Experiement Processes](https://github.com/DylanBrohan/Generative-Design-Portfolio/tree/master/Chapter01-Color%20Experiements) - All Experiements and their Steps to Construction
 
-**Bold** and _Italic_ and `Code` text
+- [Color Grid](Chapter01-Color Experiements/colorChapter01/Excercise02/StepFinal) - Using Color & Images
 
-[Link](url) and ![Image](src)
-```
+- [Saturation Grid](Chapter01-Color Experiements/colorChapter01/Excercise02/StepFinal) - Color Experiement02
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Interpolation Of Colors](Chapter01-Color Experiements/colorChapter01/Excercise04/StepFinal) - Color Experiement04
 
-### Jekyll Themes
+- [Random Fragmentation of Color](Chapter01-Color Experiements/colorChapter01/Excercise07/StepFinal) - Color Experiement07
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DylanBrohan/Data-Analytics-Visualisation-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Overlapping of Grids & Gradiation](Chapter01-Color Experiements/colorChapter01/Excercise10/StepFinal) - Color Experiement10
 
-### Support or Contact
+_Shape_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Triangular Fans](Chapter01-Color Experiements/colorChapter01/Excercise03/StepFinal) - Both a Color & Shape Experiement
+
+_Type_
+
+- [Type Experiement01](Chapter03-Type/type_from_outline_template) - Using Font
+
+- [Type Experiement02](Chapter03-Type/type_from_pixels_template) - Type & Pixel Manipulation
+  ** - Must Be Opened on Local Host or Mozilla**
+
+# Live Demos
+
+**Below if Some of my Assignment work and Favourite live demonstrations.**
+
+## Color Assignment:
+
+#### [Color Experiement](Generative-Design-Portfolio/Assignment02- Clock/Final Image.jpg)
+
+## Clock in P5:
+
+#### [Swiss Clock in P5](Chapter02-Shape-Experiements/InClass Exam-CreativeCoding/StepFinal)
+
+## Type Assignment:
+
+#### [Type Input Experiement](Chapter03-Type/Assignment3-Type)
+
+** - Must Be Opened on Local Host or Mozilla**
+
+## Image Assignment:
+
+#### [Image Manipulation](Images/Image Manipulation/Step01)
+
+## Author
+
+- **Dylan Brohan** - _Initial work_ - [DylanBrohan]
+  Git Hub Link -> Data Visualisation Portfolio
+  (https://github.com/DylanBrohan/Generative-Design-Portfolio)
