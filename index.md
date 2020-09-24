@@ -64,4 +64,4 @@ _Type_
 
 - **Dylan Brohan** - _Initial work_ - [DylanBrohan]
   Git Hub Link -> Data Visualisation Portfolio
-  (https://github.com/DylanBrohan/Generative-Design-Portfolio)
+  (https://github.com/DylanBrohan/Data-Analytics-Visualisation-Portfolio)
